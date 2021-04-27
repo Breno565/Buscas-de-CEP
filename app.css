@@ -1,0 +1,21 @@
+form label {
+    color: rgb(253, 253, 253);
+    font-size:35px;
+    height: 20px;
+    width: 100px;   
+}
+form input {
+    height: 30px;
+    width: 150px;
+    background-color: rgb(191, 179, 197);
+    position: relative;
+}
+form button {
+    background-color: floralwhite;
+}
+body{
+    background-image:url(https://cdn.wallpapersafari.com/11/94/6F7o9q.jpg);
+    width: 200px;
+    position: relative;
+    top: 10%;
+}
